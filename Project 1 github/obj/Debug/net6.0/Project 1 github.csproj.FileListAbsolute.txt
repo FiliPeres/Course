@@ -1,0 +1,15 @@
+C:\Curso\projetos github\Project 1 github\Project 1 github\bin\Debug\net6.0\Project 1 github.exe
+C:\Curso\projetos github\Project 1 github\Project 1 github\bin\Debug\net6.0\Project 1 github.deps.json
+C:\Curso\projetos github\Project 1 github\Project 1 github\bin\Debug\net6.0\Project 1 github.runtimeconfig.json
+C:\Curso\projetos github\Project 1 github\Project 1 github\bin\Debug\net6.0\Project 1 github.dll
+C:\Curso\projetos github\Project 1 github\Project 1 github\bin\Debug\net6.0\Project 1 github.pdb
+C:\Curso\projetos github\Project 1 github\Project 1 github\obj\Debug\net6.0\Project 1 github.csproj.AssemblyReference.cache
+C:\Curso\projetos github\Project 1 github\Project 1 github\obj\Debug\net6.0\Project 1 github.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso\projetos github\Project 1 github\Project 1 github\obj\Debug\net6.0\Project 1 github.AssemblyInfoInputs.cache
+C:\Curso\projetos github\Project 1 github\Project 1 github\obj\Debug\net6.0\Project 1 github.AssemblyInfo.cs
+C:\Curso\projetos github\Project 1 github\Project 1 github\obj\Debug\net6.0\Project 1 github.csproj.CoreCompileInputs.cache
+C:\Curso\projetos github\Project 1 github\Project 1 github\obj\Debug\net6.0\Project 1 github.dll
+C:\Curso\projetos github\Project 1 github\Project 1 github\obj\Debug\net6.0\refint\Project 1 github.dll
+C:\Curso\projetos github\Project 1 github\Project 1 github\obj\Debug\net6.0\Project 1 github.pdb
+C:\Curso\projetos github\Project 1 github\Project 1 github\obj\Debug\net6.0\Project 1 github.genruntimeconfig.cache
+C:\Curso\projetos github\Project 1 github\Project 1 github\obj\Debug\net6.0\ref\Project 1 github.dll
